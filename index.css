@@ -1,0 +1,124 @@
+body {
+    background: grey;
+    line-height: 23px;
+    margin-right: auto;
+    margin-left: auto;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    text-align: center;
+    color:  gold;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    font-size: x-large;
+    position: relative;
+    bottom: 1px;
+   
+    
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Times New Roman';
+    font-weight: lighter;
+    font-size: large;
+    color: white;
+    position: relative;
+    bottom: 15px;
+    font-style: italic;
+    
+}
+
+
+h3 {
+    color: white;
+}
+
+
+#image{
+    
+    width: 18vh;
+    max-width: 100%;
+    height: auto;
+    display: block;
+    align-self: center;
+    padding-top: 1em;
+    margin:9vh;
+}
+
+#img-div{
+    display:flex;
+    flex-direction: column;
+    border:white solid;
+    border-width: 1px;
+    float:left;
+    margin-right: 20px;
+    margin-bottom: 0px;
+    background: black;
+    align-self: center;
+    
+}
+
+
+
+ul {
+    color: white;
+    font-size: bold;
+    list-style-position: outside;
+    margin-left: 80px;
+    padding-left: 200px;
+}
+
+#img-caption {
+    color: gold;
+   text-align: center;
+  position: relative;
+  bottom: 20px;
+   
+  
+  
+   }
+
+
+p {
+    color: white;
+  
+   
+     margin-right: 5px;
+     margin-left: 5px;
+     text-align: justify;
+     font-size: 3px;
+   
+    
+}
+
+#Quote {
+    color: white;
+
+
+}
+
+blockquote {
+    color: gold;
+    font-style: italic;
+    text-align: center;
+}
+
+#Kufour{
+    text-align: center;
+    font-size: medium;
+}
+
+#link{
+    font-size: medium;
+    text-align: center;
+
+}
+
+
+
+footer {
+    text-align: center;
+    color:black;
+}
